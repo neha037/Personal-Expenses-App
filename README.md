@@ -4,7 +4,7 @@
 
 It is a Personal Expense Tracking App. It can be used to record and edit daily Transactions.
 
-###Feature - Some notable features are -
+### Feature - Some notable features are -
 
     ● There is a graph to represent the data of the past week.
     ● The graph shows last week's transaction relative to one another.
@@ -13,7 +13,7 @@ It is a Personal Expense Tracking App. It can be used to record and edit daily T
     ● The Transaction list is present in the form of an infinite list to view all previous transactions.
 
 
-###Concepts Used-
+### Concepts Used-
 
     Flutter Fundamentals-
         ● Compose UI from built-in and custom Widgets
@@ -34,7 +34,7 @@ It is a Personal Expense Tracking App. It can be used to record and edit daily T
         ● Pass functions references and data around.
 
 
-###Source Code-
+### Source Code-
 
 The application contains all the basic files of the Flutter. The code to the application is attached in the appendix.
 
