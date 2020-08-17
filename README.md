@@ -4,7 +4,9 @@
 
 It is a Personal Expense Tracking App. It can be used to record and edit daily Transactions.
 
-### Feature - Some notable features are -
+### Feature - 
+
+Some notable features are -
 
     ● There is a graph to represent the data of the past week.
     ● The graph shows last week's transaction relative to one another.
